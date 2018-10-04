@@ -1,0 +1,46 @@
+body {
+
+    height: 640px;
+    width: 360px;
+    margin: 0;
+    padding: 0;
+
+}
+
+
+section{
+
+    height: 590px;
+    width: 360px;
+    display: flex;
+}
+
+section div{
+
+    position: relative;
+
+
+}
+
+footer{
+    
+    height: 49px;
+    width: 360px;
+    margin: 0;
+    padding: 0;
+    background-color:white;
+    border-top: solid 1px lightgrey;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: relative;
+
+}
+
+.menu a{
+
+    text-decoration:none;
+    padding-left: 25px;
+    padding-right: 25px;
+    
+}
